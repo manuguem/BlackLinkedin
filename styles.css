@@ -27,6 +27,7 @@ body {
   border-radius: 0.5rem;
   border: none;
   margin-bottom: 0.5rem;
+  height: 2rem;
 }
 
 #button:hover {
