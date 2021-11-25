@@ -1,0 +1,20 @@
+.imgBlack {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    border-radius: 100%;
+    width: 90px;
+    height: 90px;
+}
+
+.card {
+    width: 45.8rem;
+}
+
+.bg-linkedin {
+    background: rgb(189, 189, 189);
+    border-radius: 0.5rem;
+    height: 2rem;
+    text-align: center;
+    width: 15rem;
+}
+ 
