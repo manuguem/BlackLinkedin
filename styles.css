@@ -1,31 +1,35 @@
 .imgBlack {
-    margin-top: 1rem;
-    margin-left: 1rem;
-    border-radius: 100%;
-    width: 90px;
-    height: 90px;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  border-radius: 100%;
+  width: 90px;
+  height: 90px;
 }
 
 .card {
-    width: auto;
+  width: auto;
 }
 
 .bg-linkedin {
-    background: rgb(189, 189, 189);
-    border-radius: 0.5rem;
-    height: 2rem;
-    text-align: center;
-    width: 15rem;
+  background: rgb(189, 189, 189);
+  border-radius: 0.5rem;
+  height: 2rem;
+  text-align: center;
+  width: 15rem;
 }
 
 #button {
-    background: none;
-    border-radius: 0.5rem;
-    border: none;
-    margin-bottom: 0.5rem;
+  background: none;
+  border-radius: 0.5rem;
+  border: none;
+  margin-bottom: 0.5rem;
 }
 
 #button:hover {
-    background: rgb(189, 189, 189);
-    transition: all 0.5s;
+  background: rgb(189, 189, 189);
+  transition: all 0.5s;
+}
+
+div .displayNone {
+  display: none;
 }
