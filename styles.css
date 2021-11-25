@@ -17,4 +17,15 @@
     text-align: center;
     width: 15rem;
 }
- 
+
+#button {
+    background: none;
+    border-radius: 0.5rem;
+    border: none;
+    margin-bottom: 0.5rem;
+}
+
+#button:hover {
+    background: rgb(189, 189, 189);
+    transition: all 0.5s;
+}
